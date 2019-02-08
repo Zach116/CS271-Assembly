@@ -1,4 +1,4 @@
-TITLE Program 3 Integer Accumulator     (template.asm)
+TITLE Program 3 Integer Accumulator     (proj3.asm)
 
 ; Author: Zach Bishop
 ; Course / Project ID  CS 271 Program 3               Date: 1/25/19
